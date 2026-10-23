@@ -17,7 +17,7 @@ the open-source wealth management software.
 ## Project layout
 
 ```
-fintech_ghostfolio_playwright-typescript/
+fintech-ghostfolio-playwright-typescript/
 ├── pages/                # Page Object Model (one file per page)
 │   ├── BasePage.ts       # navigation + footer + header + retry/backoff
 │   ├── LandingPage.ts    # /en + /en/start (Get Started / Live Demo CTA)
